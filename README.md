@@ -12,7 +12,7 @@ To get started, use the [getting started guide](getting-started.md).
 
 ## Components
 
-There are three main pieces to the sample applications:
+There are three main pieces to the sample applicationss:
 
 1.  The backend, a Java-based server using the Fleet Engine API, which supports
     services for the mobile applications as well as web-facing applications.
